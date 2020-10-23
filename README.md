@@ -4,7 +4,7 @@
 
 + Articles: http://article.partialpartialt.org/articles/
 
-Please click **Watch** on the top right to follow the update. 
+Please click **Watch** on the top right and choose **Release Only** to follow the update. 
 
 Issue collection/Update information for article.partialpartialt.org 
 
